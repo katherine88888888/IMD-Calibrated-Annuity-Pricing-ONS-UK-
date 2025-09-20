@@ -1,5 +1,9 @@
-# IMD-Calibrated-Annuity-Pricing-ONS-UK-
-Excel-based actuarial model using ONS life tables to price level annuities; it calibrates a decile-specific mortality multiplier (k) to IMD e65, then quantifies fair-value payout differences and interest/retirement-age sensitivities.
+# IMD-Calibrated-Annuity-Pricing-ONS-UK
+##Overview
+Excel-based actuarial model that prices level life annuities using ONS life tables. Mortality is decile-adjusted via a single factor 𝑘 calibrated so model e₆₅ matches the IMD (deprivation) e₆₅. The tool produces “fair value” annuity factors, payouts, and sensitivities to interest rate and retirement age.
+
+## My Excel Model
+My Excel Model link:
 
 <img width="1772" height="603" alt="image" src="https://github.com/user-attachments/assets/25ad6458-18d3-4656-914e-96719ce66808" />
 
